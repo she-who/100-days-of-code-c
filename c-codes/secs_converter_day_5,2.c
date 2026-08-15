@@ -1,5 +1,12 @@
-// Q10 Write a program to input time in seconds and convert it into hours:minutes:seconds format
+/*
+NAME: SRISHTI SAHU
+BATCH: 54
+SAP ID: 590037979
+DAY: DAY 5   QUESTION-2
 
+PROBLEM STATEMENT: 
+Q10 Write a program to input time in seconds and convert it into hours:minutes:seconds format
+*/
 # include<stdio.h>
 int main(){
     int Sec_in , hrs ,mins ,sec;

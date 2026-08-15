@@ -1,4 +1,12 @@
-//Q4: Write a program to calculate the area and circumference of a circle given its radius.
+/*
+NAME: SRISHTI SAHU
+BATCH: 54
+SAP ID: 590037979
+DAY: DAY 2   QUESTION-2
+
+PROBLEM STATEMENT: 
+Q4: Write a program to calculate the area and circumference of a circle given its radius.
+*/
 
 #include<stdio.h>
 int main(){

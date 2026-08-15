@@ -1,5 +1,12 @@
-//  Q9 Write a program to calculate simple and compound interest for given principal, rate and time.
+/*
+NAME: SRISHTI SAHU
+BATCH: 54
+SAP ID: 590037979
+DAY: DAY 5   QUESTION-1
 
+PROBLEM STATEMENT: 
+  Q9 Write a program to calculate simple and compound interest for given principal, rate and time.
+*/
 #include<stdio.h>
 #include<math.h>
 int main(){
