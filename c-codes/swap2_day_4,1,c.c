@@ -1,17 +1,11 @@
-//Q7: Write a program to swap two numbers without using a third variable.
-
 /*
-Sample Test Cases:
-Input 1:
-10 20
-Output 1:
-After swap: 20 10
+NAME: SRISHTI SAHU
+BATCH: 54
+SAP ID: 590037979
+DAY: DAY 4   QUESTION-1
 
-Input 2:
-7 14
-Output 2:
-After swap: 14 7
-
+PROBLEM STATEMENT: 
+Q7: Write a program to swap two numbers without using a third variable.
 */
 
 #include<stdio.h>
