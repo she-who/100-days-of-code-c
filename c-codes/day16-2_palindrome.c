@@ -2,11 +2,12 @@
 NAME: SRISHTI SAHU
 BATCH: 54
 SAP ID: 590037979
-DAY: DAY 15  QUESTION-2
+DAY: DAY 16  QUESTION-2
 
 PROBLEM STATEMENT: 
-Q30: Write a program to reverse a given number.
+Q32: Write a program to check if a number is a palindrome.
 */
+
 #include<stdio.h>
 int main(){
     int num,number,rev;
@@ -17,6 +18,11 @@ int main(){
         rev = (rev*10)+(num%10);
         num = num/ 10;
     }
-    printf("%d",rev);
+    if (rev == number){
+        printf("Palindrome");
+    }
+    else{
+        printf("Not a Palindrome");
+    }
    return 0;
 }
