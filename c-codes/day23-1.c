@@ -33,7 +33,7 @@ int main(){
         nume +=2;
         deno += 4;
     }
-    printf("Approximate sum: %f",sum);
+    printf("Approximate sum: %.2f",sum);
     return 0;
 }
 
