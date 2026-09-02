@@ -19,5 +19,19 @@ Input 2:
 1001
 Output 2:
 1001
-
 */
+#include<stdio.h>
+int main(){
+    int d,l,f,final,n;
+    scanf("%d",&d);
+    n=1;
+    for(int i=10;i<=d;i*=10){
+        n*=10;
+    }
+    l = d - (d/10)*10;
+    f = d - (d%n);
+    final = (l*n)+(d-l-f)+(f/n);
+    printf("%d",final);
+    return 0;
+
+}
