@@ -22,24 +22,23 @@ Not strong number
 #include <stdio.h>
 
 int main(){
-    int num,number,sum;
+    int num,number,sum,fact;
     sum = 0;
     scanf("%d",&num);
     number = num;
-    for (int i=10;i<=number*10;i*=10){
-        sum +=(num%10);
+    for (int i=1;i<=number*10;i*=10){
+        fact = 1;
+        for(int j = 1;j<=num%10;j++){
+            fact*=j;
+        }
+        sum +=fact;
         num = num/ 10;
     }
-    printf("%d",sum);
-   return 0;
-
-    int n,fact;
-    scanf("%d",&n);
-    fact = 1;
-    for(int i = 1;i<=n;i++){
-        fact*=i;
+    if(number==sum-1){
+        printf("STRONG NUMBER");
     }
-    printf("%d",fact);
-    return 0;
-    
+    else{
+        printf("NOT A STRONG NUMBER");
+    }
+   return 0;
 }
