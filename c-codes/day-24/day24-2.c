@@ -5,7 +5,25 @@ SAP ID: 590037979
 DAY: DAY 24  QUESTION-2
 
 PROBLEM STATEMENT: 
-Q47*/
+Q48: Write a program to print the following pattern:
+1
+12
+123
+1234
+12345
+
+
+Sample Test Cases:
+Input 1:
+
+Output 1:
+1
+12
+123
+1234
+12345
+
+*/
 
 #include<stdio.h>
 int main(){

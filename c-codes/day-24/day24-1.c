@@ -5,7 +5,25 @@ SAP ID: 590037979
 DAY: DAY 24  QUESTION-1
 
 PROBLEM STATEMENT: 
-Q47*/
+Q47: Write a program to print the following pattern:
+*
+**
+***
+****
+*****
+
+
+Sample Test Cases:
+Input 1:
+
+Output 1:
+*
+**
+***
+****
+*****
+
+*/
 
 #include<stdio.h>
 int main(){
