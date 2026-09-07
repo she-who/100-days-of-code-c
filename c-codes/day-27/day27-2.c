@@ -2,7 +2,7 @@
 NAME: SRISHTI SAHU
 BATCH: 54
 SAP ID: 590037979
-DAY: DAY 25  QUESTION-1
+DAY: DAY 27  QUESTION-2
 
 PROBLEM STATEMENT:
 Q54: Write a program to print the following pattern:
