@@ -2,7 +2,7 @@
 NAME: SRISHTI SAHU
 BATCH: 54
 SAP ID: 590037979
-DAY: DAY 30  QUESTION-1
+DAY: DAY 30  QUESTION-2
 
 PROBLEM STATEMENT:
 Q60: Count positive, negative, and zero elements in an array.
