@@ -1,3 +1,21 @@
+/*
+NAME: SRISHTI SAHU
+BATCH: 54
+SAP ID: 590037979
+DAY: DAY 37   QUESTION-1
+
+PROBLEM STATEMENT: 
+Q73: Find the sum of each row of a matrix and store it in an array.
+
+Sample Test Cases:
+Input 1:
+2 3
+1 2 3
+4 5 6
+Output 1:
+6 15
+
+*/
 #include<stdio.h>
 int main(){
     int r,c;
