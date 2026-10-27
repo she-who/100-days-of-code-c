@@ -28,7 +28,7 @@ int main()
     printf("Enter age: ");
     scanf("%d", &age);
 
-    fp = fopen("/Users/mac/100-DAYS-OF-CODE-C/c-codes/info.txt", "w");
+    fp = fopen("c-codes/info.txt", "w");
 
     if (fp == NULL)
     {

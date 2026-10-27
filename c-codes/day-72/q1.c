@@ -23,7 +23,7 @@ int main()
     FILE *fp;
     char line[200];
 
-    fp = fopen("/Users/mac/100-DAYS-OF-CODE-C/c-codes/info.txt", "r");
+    fp = fopen("c-codes/info.txt", "r");
 
     if (fp == NULL)
     {
