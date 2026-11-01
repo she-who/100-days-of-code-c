@@ -2,7 +2,7 @@
 NAME: SRISHTI SAHU
 BATCH: 54
 SAP ID: 590037979
-DAY: DAY 80
+DAY: DAY 82
 
 PROBLEM STATEMENT:
 Q132: Define an enum for traffic lights (RED, YELLOW, GREEN) and print 'Stop', 'Wait', or 'Go' based on its value.
